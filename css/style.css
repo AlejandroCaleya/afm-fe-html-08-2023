@@ -1,0 +1,19 @@
+body {
+    background-color: turquoise;
+}
+
+table {
+    border: black 1px solid;
+}
+
+td {
+    background-color: whitesmoke;
+}
+
+th {
+    background-color: grey;
+}
+
+h2 {
+    color: crimson;
+}
